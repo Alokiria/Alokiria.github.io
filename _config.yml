@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: Alokiria
-zhihu_username: Alokiria
+weibo_username: u/7795048807
+zhihu_username: alokiria
 github_username: Alokiria
-twitter_username: Alokiria
+twitter_username: likwater34940
 #facebook_username:  Alokiria
 #linkedin_username:  firstname-lastname-idxxxx
 
