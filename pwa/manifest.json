@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "Alokiria Blog",
+  "short_name": "Alokiria Blog",
+  "description": "A college student who wants to become a TA.",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
