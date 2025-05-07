@@ -2,7 +2,7 @@
 layout:     post
 title:      "Template"
 subtitle:   "这只是一个Blog模板"
-date:       2025/5/7
+date:       2025-05-07 10:00:00
 author:     "Alokiria"
 header-img: "img/avatar.jpg"
 catalog: true
